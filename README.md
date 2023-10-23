@@ -21,4 +21,5 @@
 
 😁 Estoy emocionado por las oportunidades que el futuro me depara. Mi objetivo es contribuir a nuevos proyectos y desafíos que me permitan continuar creciendo profesionalmente y aplicando mis habilidades para crear soluciones impactantes en el desarrollo web.
 
-📨 Si estas interesado en ponerte en contacto, no lo dudes!
+📬 Si estas interesado en ponerte en contacto, no lo dudes!
+  📨 franciscohv95@gmail.com
